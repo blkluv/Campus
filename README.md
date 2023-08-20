@@ -81,6 +81,12 @@ For detailed installation and setup instructions, please refer to our comprehens
 ![Introduction](/images/photo%2004.png)
 ![Introduction](/images/photo%2005.png)
 
+## Video
+
+<a href="https://www.youtube.com/watch?v=8EJbAq01O4U">
+  <img src="https://img.youtube.com/vi/8EJbAq01O4U/default.jpg" width="500" alt="Youtube Video">
+</a>
+
 ## 📢 Contributing
 
 We welcome contributions from developers, designers, and creators. Check out our [contribution guidelines](CONTRIBUTING.md) to get started.
