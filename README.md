@@ -70,7 +70,10 @@ For detailed installation and setup instructions, please refer to our comprehens
 
 ## Screenshots
 
-![Introduction](images/Photo-01.png)
+![Introduction](/images/Photo-01.png)
+![Introduction](/images/Photo-02.png)
+![Introduction](/images/Photo%2004.png)
+![Introduction](/images/Photo%2005.png)
 
 ## 📢 Contributing
 
