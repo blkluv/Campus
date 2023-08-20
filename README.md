@@ -83,7 +83,7 @@ For detailed installation and setup instructions, please refer to our comprehens
 
 ## Video
 
-<a href="https://www.youtube.com/watch?v=8EJbAq01O4U">
+<a href="https://www.youtube.com/watch?v=8EJbAq01O4U" target="_blank">
   <img src="https://img.youtube.com/vi/8EJbAq01O4U/maxresdefault.jpg" width="500" alt="Youtube Video">
 </a>
 
