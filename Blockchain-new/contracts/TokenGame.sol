@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 contract TokenGame {
-    string public constant tokenName = "HSR";
+    string public constant tokenName = "UBI";
     uint256 public tokenPrice = 1e13; 
     uint256 public characterPrice = 5; 
     uint256 public startingBalance = 20;

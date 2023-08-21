@@ -7,7 +7,7 @@ import { ethers } from 'ethers';
 import { contractABI } from '../Utils/components';
 
 
-const contractAddress = '0x3AA01F722b452f652A82B28CDd8C6D1C8f5a876C';
+const contractAddress = '0xfaE002D0A3327AF06A14744B17505afD9A116B81';
 const GlobalChat = () => {
     const [id, setId] = useState("");
     const [show, setshow] = useState(false);
@@ -238,7 +238,7 @@ const GlobalChat = () => {
                 <div className="stats">
                     <ul>ID: {playerId}</ul>
 
-                    <ul>{balance} HSR 🟡 </ul>
+                    <ul>{balance} UBI 🪙 </ul>
                 </div>
 
 

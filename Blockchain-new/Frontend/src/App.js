@@ -103,7 +103,7 @@ function App() {
       {isRegistered ? (
         <div>
           <p>Your Player ID: {playerId}</p>
-          <p>Your Token Balance: {balance} HSR</p>
+          <p>Your Token Balance: {balance} UBI</p>
           <h2>Buy Tokens</h2>
           <p>Amount of Ether to Send: <input type="number" value={buyAmount} onChange={(e) => setBuyAmount(e.target.value)} /></p>
           <button onClick={buyTokens}>Buy Tokens</button>

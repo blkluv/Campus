@@ -38,15 +38,15 @@ const InputPopup = ({ isOpen, type, onSave }) => {
                 )}
                 {type === 'details' && (
                     <> <div className="details">
-                        <h2 className="retro-title">Welcome, Traveler, to the Metaverse Adventure!</h2>
+                        <h2 className="retro-title">Welcome to the LUV Metaverse!</h2>
                         <p className="retro-content ">
                             
 
-                            As you step into our immersive 3D multiplayer world, you're embarking on a thrilling journey like no other. Picture yourself as a brave adventurer, equipped with 20 HSR coins, ready to explore uncharted territories, forge new friendships, and embrace the power of blockchain technology.
+                            As you step into our immersive 3D multiplayer world, you're embarking on a thrilling journey like no other. Picture yourself as a brave adventurer, equipped with 20 UBI coins, ready to explore uncharted territories, forge new friendships, and embrace the power of blockchain technology.
 
                             <h4>Your Metaverse Odyssey</h4>
 
-                            Your adventure starts with 20 HSR coins in your pocket. These coins will be your guide as you navigate this vast and enchanting world. Use them wisely to acquire assets, unique characters, and participate in exciting challenges.
+                            Your adventure starts with 20 UBI coins in your pocket. These coins will be your guide as you navigate this vast and enchanting world. Use them wisely to acquire assets, unique characters, and participate in exciting challenges.
 
                             
                             <h4>Explore & Socialize</h4>
@@ -61,7 +61,7 @@ const InputPopup = ({ isOpen, type, onSave }) => {
 
                             
 
-                            As a true explorer, you can create challenges for fellow players to conquer. From treasure hunts to mind-bending puzzles, let your creativity shine, and reward successful adventurers with HSR coins.
+                            As a true explorer, you can create challenges for fellow players to conquer. From treasure hunts to mind-bending puzzles, let your creativity shine, and reward successful adventurers with UBI coins.
 
                             <h4>Begin Your Odyssey</h4>
 
